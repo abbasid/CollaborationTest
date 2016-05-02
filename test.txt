@@ -4,4 +4,8 @@ mno
 fgh
 123456
 iphone
+<<<<<<< HEAD
 testing
+=======
+hey
+>>>>>>> d5fe2122807bf675d4969eb56849183de4b80d68
