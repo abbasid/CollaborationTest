@@ -4,10 +4,13 @@ mno
 fgh
 123456
 iphone
+<<<<<<< .merge_file_0fg7d0
+hey
+> ~ <
+=======
 <<<<<<< HEAD
 testing
 =======
 hey
 >>>>>>> d5fe2122807bf675d4969eb56849183de4b80d68
-hey
-> ~ <
+>>>>>>> .merge_file_lRIXle
